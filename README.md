@@ -12,7 +12,7 @@ Experience seamless scraping with Bright Data's [industry-leading residential pr
 - **Geo-location targeting (Free)**
 
 ## Key Features
-- **Global Coverage**: Residential proxies available in [195 countries]().
+- **Global Coverage**: Residential proxies available in [195 countries](https://brightdata.com/locations).
 - **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
 - **Fast Response**: Average response time of ~0.7 seconds.
 - **Ethically Sourced**: All proxies are sourced with explicit user consent.
