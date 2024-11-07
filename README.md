@@ -120,21 +120,20 @@ curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-[your customerID]
 ## Integrations
 Our residential proxies integrate with popular tools and frameworks, including:
 
-- **Puppeteer**
-- **Selenium**
-- **Playwright**
-- **AdsPower**
-- **MultiLogin**
+- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
+- [**Selenium**](https://brightdata.com/integration/selenium)
+- [**Playwright**](https://brightdata.com/integration/playwright)
+- [**AdsPower**](https://brightdata.com/integration/adspower)
+- [**MultiLogin**](https://brightdata.com/integration/multilogin)
 
 ## Use Cases
 Explore how businesses leverage residential proxies:
 
-- **eCommerce**: Track pricing and reviews.
-- **Social Media**: Monitor trends.
-- **Real Estate**: Gather market data.
-- **Ad Tech**: Optimize ad placements.
-- **Travel**: Compare prices across regions.
-- **Financial Services**: Analyze trends securely.
+- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
+- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
+- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
+- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
+- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
 
 ## FAQ
 
