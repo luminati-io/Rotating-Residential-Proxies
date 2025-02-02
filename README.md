@@ -1,6 +1,6 @@
 # Bright Data Residential Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/residential-proxies) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types/residential-proxies) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [industry-leading residential proxies](https://brightdata.com/proxy-types/residential-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
@@ -26,7 +26,7 @@ Experience seamless scraping with Bright Data's [industry-leading residential pr
   - **339 GB**: $5.88/GB, $1999/month.
   - **Enterprise Plans**: Custom solutions available for large-scale needs.
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/residential-proxies) 
 
 ## Getting Started with Residential Proxies
 1. **Start Free Trial**: No credit card required.
