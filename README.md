@@ -5,7 +5,7 @@
 ## Overview
 Experience seamless scraping with Bright Data's [industry-leading residential proxies](https://brightdata.com/proxy-types/residential-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
 
-- **72M+ Residential IPs**
+- **150M+ Residential IPs**
 - **Sticky and rotating sessions**
 - **99.95% success rate**
 - **HTTP(S) & SOCKS5 support**
